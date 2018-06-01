@@ -1,2 +1,2 @@
-# My website
-This is a test website made in 20180531.
+# VScode Website
+This is a test HTML4 CSS3 website made with VSCode.
