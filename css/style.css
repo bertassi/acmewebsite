@@ -186,9 +186,9 @@ footer{
     text-align: center;
 }
 
-/* Media Queries */ 
+/* Media Queries */ /* Code to make the page adapt dependin on the device screen. */
 
-@media(max-width: 768px){ /* It will adpat according to the device screen. */
+@media(max-width: 768px){ 
     header #branding,
     header nav, 
     header nav li, 

@@ -1,2 +1,2 @@
-# VScode Website
-This is a test HTML5 CSS3 website made with VSCode.
+# VScode Acme Website
+This is a test HTML5 CSS3 responsive website made with VSCode.
