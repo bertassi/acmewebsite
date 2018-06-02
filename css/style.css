@@ -90,7 +90,7 @@ body{
 
 #showcase{
     min-height: 400px; /* Just set a minimun value because we want the site to be responsive. */
-    background: url('../img/showcase.jpg') no-repeat 0 -400px; /* We move up the picture verticaly. */
+    background: url('../img/showcase_b.jpg') no-repeat 50% 50%; /* We move up the picture verticaly. */
     text-align: center;
     color: #ffffff;
 }
@@ -105,22 +105,22 @@ body{
     font-size: 20px;
 }
 
+/* Newsletter */ 
+
 #newsletter{
+    margin-top: 20px;
     padding: 15px;
     color: #ffffff;
     background: #35454a;
 }
 
-/* Newsletter */ 
-
-#newsletter h1{
+#newsletter h1{    
     float: left;
 }
 
 #newsletter form{
     float: right;
     margin-top: 15px;
-
 }
 
 #newsletter input[type="email"]{
@@ -132,14 +132,14 @@ body{
 /* Boxes */
 
 #boxes {
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 #boxes .box {
     float: left;
     text-align: center;
     width: 30%; /* Again, to be responsivem we set a percentage value. */ 
-    padding: 10px;
+    padding: 25px;
 }
 
 #boxes img{
@@ -180,7 +180,7 @@ ul#services li{
 
 footer{
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 0px;
     color: #ffffff;
     background-color: #e8491d;
     text-align: center;
@@ -204,6 +204,13 @@ footer{
 
     header{ /* Add some space underneath the header when the screen get resized. */
         padding-bottom: 20px;
+    }
+
+    #showcase{
+        min-height: 400px; /* Just set a minimun value because we want the site to be responsive. */
+        background: url('../img/showcase_b.jpg') no-repeat 50% 50%; /* We move up the picture verticaly. */
+        text-align: center;
+        color: #ffffff;
     }
 
     #showcase h1{ /* It's 100px margin as default. */
