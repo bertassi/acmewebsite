@@ -1,2 +1,2 @@
 # VScode HTML5 and CSS3 Acme Website
-This is just a responsive website test using HTML5 and CSS3 implemented with VSCode.
+Example of a responsive website implemented with HTML5 and CSS3 using VSCode.
